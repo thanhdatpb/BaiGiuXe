@@ -1,0 +1,4 @@
+4;73A-00605;001;15:30 04/04/2024;Binh thuong
+0;Not Available;002;15:35 04/04/2024;Not Available
+4;37A-12333;003;15:40 04/04/2024;Binh thuong
+2;75F1-56531;004;15:45 04/04/2024;Not Available
